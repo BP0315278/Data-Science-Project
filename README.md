@@ -5,4 +5,4 @@
 <!-- this is a comment --> 
 
 ## Histogram
-![Histogram](images/histogram-example-2.png) 
+![Histogram](images/histogram-example-2.png)
