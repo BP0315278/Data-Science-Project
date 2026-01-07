@@ -3,12 +3,9 @@
 # Logistic Regression
 
 <!-- this is a comment --> 
-<figure> 
+
 ### Formula 1 has established itself as a leading global sport, demonstrating consistent, record-breaking annual growth in both viewership and race attendance. 
 ![Figure 1: 2025 end year statistics (Formual 1, 2025)](images2/F1_stats.png)
-<figcaption> Figure 1: 2025 Statistics (Formula 1, 2025) </figcaption>
-</figure>  
-<br>
 
 
 <details> 
