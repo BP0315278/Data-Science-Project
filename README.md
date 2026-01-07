@@ -1,6 +1,6 @@
-# Data-Science-Project
+# F1 Predictive Model Project
 
-# Public project
+# Logistic Regression
 
 <!-- this is a comment --> 
 
