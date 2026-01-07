@@ -5,7 +5,7 @@
 <!-- this is a comment --> 
 
 ## Histogram
-![Histogram](images2/histogram-example-2.png)
+![Histogram](images2/F1_stats.png)
 
 <details> 
 Text and other comments
