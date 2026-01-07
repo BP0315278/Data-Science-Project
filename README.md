@@ -8,7 +8,7 @@
 ![Figure 1: 2025 end year statistics (Formual 1, 2025)](images2/F1_stats.png)
 <figcaption> Figure 1: 2025 Statistics (Formula 1, 2025) </figcaption>
 
-
+<!-- this is a comment --> 
 <details> 
 Text and other comments
 </details> 
