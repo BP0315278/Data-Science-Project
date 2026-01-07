@@ -1,4 +1,4 @@
-# F1 Predictive Model Project
+# Predicting F1 Race Wins
 
 # Logistic Regression
 
@@ -7,8 +7,9 @@
 ### Formula 1 has established itself as a leading global sport, demonstrating consistent, record-breaking annual growth in both viewership and race attendance. 
 ![Figure 1: 2025 end year statistics (Formual 1, 2025)](images2/F1_stats.png)
 <figcaption> Figure 1: 2025 Statistics (Formula 1, 2025) </figcaption>
+<br>
 
-<!-- this is a comment --> 
+
 <details> 
 Text and other comments
 </details> 
