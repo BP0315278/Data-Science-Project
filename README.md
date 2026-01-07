@@ -4,8 +4,9 @@
 
 <!-- this is a comment --> 
 
-## Histogram
+### Formula 1 has established itself as a leading global sport, demonstrating consistent, record-breaking annual growth in both viewership and race attendance. 
 ![Histogram](images2/F1_stats.png)
+#### Figure 1: 2025 end year statistics (Formual 1, 2025)
 
 <details> 
 Text and other comments
